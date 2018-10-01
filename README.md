@@ -1,5 +1,5 @@
 # Node-ES6
-###### Notes on [Redux](https://redux.js.org/) Todo List [Example](https://redux.js.org/basics/exampletodolist) built with [React](https://reactjs.org/)
+###### Notes on using ES6 syntax without packages in Node
 
 ## Getting Started
 Node uses experimental modules to use ES6 syntax with ```.mjs``` extensions. To start cd into the following ```Node-ES6``` directory and type in the command:
